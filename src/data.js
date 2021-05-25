@@ -12,5 +12,6 @@ const data = [
       "subscribedChannel": "Sentex"
     }
   ]
+  
 
 module.exports = data;
